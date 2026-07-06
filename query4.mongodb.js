@@ -1,6 +1,6 @@
 use("sample_mflix");
 
-// Ex4 REGEX
+// Ex4 REGEX /regular expression
 
 // count movies mentioned american plot
 // db.movies.find({ plot: { $regex: "American", $options: "i" } }).count();
